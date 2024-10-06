@@ -26,7 +26,7 @@ BIRD = [pygame.image.load(os.path.join("Assets/Bird", "Bird1.png")),
 
 CLOUD = pygame.image.load(os.path.join("Assets/Other", "Cloud.png"))
 
-BG = pygame.image.load(os.path.join("Assets/Other", "Track.png"))
+
 
 
 class Dinosaur:
